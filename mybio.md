@@ -1,5 +1,9 @@
-   Full name: Godwin Umeaka \n
-   Email address: umeakaebuka@gmail.com \n
-   Slack username: Godwin Umeaka \n
-   Track: Design, Backend \n
+   Full name: Godwin Umeaka
+	
+   Email address: umeakaebuka@gmail.com
+	
+   Slack username: Godwin Umeaka
+	
+   Track: Design, Backend
+	
    Courses: Design, Python
